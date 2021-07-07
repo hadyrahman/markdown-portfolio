@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. happy 😃
+
+2. sad 😏
+
+3. food 🥘
+
+   1. burger 🍔 
+
+   2. pizza 🍕
